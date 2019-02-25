@@ -1,5 +1,5 @@
 # Kirby-Lab-Code
-Laboratory projects I worked on while doing research at Kirby Lab.
+Laboratory projects I worked on while doing research in the [Kirby Lab](http://www.kirbyresearch.com/) at Cornell.
 
 ## Spot detection GUI
 ### What it is and what it was used for:
