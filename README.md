@@ -21,4 +21,7 @@ To obtain localization patterns from classification of the spots identified as m
 
 ![voting GUI](https://i.ibb.co/fFDyywL/clusters.jpg)
 
-Full analy-sis of the clusters and MPC localization patterns isstill ongoing, there is great potential that this type ofanalysis will provide us with a more comprehensivemetric for MPC activity.
+Full analy-sis of the clusters and MPC localization patterns isstill ongoing, there is great potential that this type of analysis will provide us with a more comprehensivemetric for MPC activity.
+
+### Notes:
+These cluster visualization scripts use the code from a modified version of "extract_features_from_objects" script written by Jack Hartman from Kirby Lab.
